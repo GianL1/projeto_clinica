@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/projeto_clinica/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/projeto_clinica/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/proxy-manager-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/polyfill-php81" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/friendsofphp/proxy-manager-lts" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_clinica/vendor/doctrine/common" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
